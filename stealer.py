@@ -12,7 +12,7 @@ from tkinter import filedialog
 
 
 # Discord webhook configuration
-DISCORD_WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1165510430844801034/9a28zdN8I-_dncs7c2SARmaI-tiiW4qO3v1VDjGVvHqL_uer3sO-7gGzCqbYPj2wfx2H'
+DISCORD_WEBHOOK_URL = 'can't share '
 
 ALLOWED_EXTENSIONS = {'.txt', '.pdf', '.png', '.jpg', '.jpeg', '.mp4', '.mp3', '.mkv', '.docx', '.xls'}
 
